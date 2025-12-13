@@ -9,6 +9,7 @@ An interesting feature of this project is its ability to display the possible mo
 Despite being a simplified implementation, the project offers an engaging chess experience in the console, where players can enjoy the game and hone their strategic skills. It serves as an excellent introduction to the world of digital chess, providing fun and challenges for players of all levels.
 
 
+<img width="292" height="410" alt="{9F2DD580-AE19-451C-B6B9-42F61DD7CDEB}" src="https://github.com/user-attachments/assets/13bca44e-9b05-4397-803f-2c650f266890" />
 
 
 
